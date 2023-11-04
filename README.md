@@ -1,5 +1,9 @@
 # Lens cover for Aukey webcam model PC-LME1
 
+*This repository contains a model that can be printed with a 3D printer. Create the .stl files with [OpenScad](https://openscad.org/) or download them from [Thingiverse](https://www.thingiverse.com/thing:6277697).*
+
+
+
 ![](https://github.com/Moon70/WebcamLensCover/blob/main/LensCoverAnim.png?raw=true)
 
 
