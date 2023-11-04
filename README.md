@@ -1,6 +1,6 @@
 # Lens cover for Aukey webcam model PC-LME1
 
-![](P:\GitHub\OpenScad_git\WebcamLensCover\LensCoverAnim.png)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/LensCoverAnim.png?raw=true)
 
 
 
@@ -8,7 +8,7 @@
 
 The Aukey PC-LME1 comes without a lens cover, a serious problem you can easily fix using a 3D printer.
 
-![](P:\GitHub\OpenScad_git\WebcamLensCover\Aukey_PC-LME1.jpg)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/Aukey_PC-LME1.jpg?raw=true)
 
 
 
@@ -16,7 +16,7 @@ The Aukey PC-LME1 comes without a lens cover, a serious problem you can easily f
 
 This design is meant to be attached to the camera with double-sided adhesive tape.
 
-![](P:\GitHub\OpenScad_git\WebcamLensCover\Aukey_PC-LME1_WithCover.jpg)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/Aukey_PC-LME1_WithCover.jpg?raw=true)
 
 
 
