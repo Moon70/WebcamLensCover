@@ -4,7 +4,7 @@
 
 
 
-![](https://github.com/Moon70/WebcamLensCover/blob/main/LensCoverAnim.png?raw=true)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/images/LensCoverAnim.png?raw=true)
 
 
 
@@ -12,7 +12,7 @@
 
 The Aukey PC-LME1 comes without a lens cover, a serious problem you can easily fix using a 3D printer.
 
-![](https://github.com/Moon70/WebcamLensCover/blob/main/Aukey_PC-LME1.jpg?raw=true)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/images/Aukey_PC-LME1.jpg?raw=true)
 
 
 
@@ -20,7 +20,7 @@ The Aukey PC-LME1 comes without a lens cover, a serious problem you can easily f
 
 This design is meant to be attached to the camera with double-sided adhesive tape.
 
-![](https://github.com/Moon70/WebcamLensCover/blob/main/Aukey_PC-LME1_WithCover.jpg?raw=true)
+![](https://github.com/Moon70/WebcamLensCover/blob/main/images/Aukey_PC-LME1_WithCover.jpg?raw=true)
 
 
 
